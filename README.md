@@ -21,3 +21,5 @@ It is template for demo proccessing. Now it just prints all console commands.
 * `int` Frames 
 * `int` SignonDataLength 
 * `int` TickRate => `(int)Math.Floor(Ticks / PlaybackTime)`
+
+![Screenshot](images/demo-header-screenshot.png)
